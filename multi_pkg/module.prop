@@ -1,0 +1,6 @@
+id=zygisk_il2cppdumper
+name=Il2CppDumper
+version=v1.2.0
+versionCode=1
+author=Perfare
+description=(multi-pkg) Il2CppDumper Zygisk version.
