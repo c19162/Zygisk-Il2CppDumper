@@ -3,9 +3,8 @@
 import struct
 from keystone import *
 
-# Package list (14 entries)
+# Package list (13 entries)
 PACKAGES = [
-    "  ",
     "com.tencent.tmgp.habby.danke",
     "com.habby.danke.mi",
     "com.habby.danke.huawei",
